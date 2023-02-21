@@ -3,3 +3,4 @@ A topic model is a model, which can automatically detect topics based on the wor
 
 Topic classification is a supervised learning while topic modelling is a unsupervised learning algorithm.
 
+Topics can be thought of as a keyword.
